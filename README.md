@@ -4,6 +4,9 @@ Image-to-Image translation with cGAN
 ## Introduction
 This project is a PyTorch implementation of the **pix2pix** model, a Conditional Generative Adversarial Network (cGAN) for image-to-image translation. It's trained on the [CMP Facades Dataset](https://people.eecs.berkeley.edu/~tinghuiz/projects/pix2pix/datasets/) to learn how to translate architectural labels into realistic building photos.
 
+## 🫡 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]
+
 ## How It Works
 The pix2pix model features two main components trained in an adversarial process:
 
